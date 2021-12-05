@@ -1,7 +1,7 @@
 // Copyright 2021 Your Name <your_email>
 
-#ifndef INCLUDE_DIRWALKER_HPP_
-#define INCLUDE_DIRWALKER_HPP_
+#ifndef INCLUDE_FILEWALK_HPP_
+#define INCLUDE_FILEWALK_HPP_
 
 #include <filesystem>
 #include <iostream>
@@ -30,4 +30,4 @@ class FilesWalk {
   void output_statistics();
 };
 
-#endif  // INCLUDE_DIRWALKER_HPP_
+#endif  // INCLUDE_FILEWALK_HPP_
